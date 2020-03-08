@@ -1,0 +1,871 @@
+# OBJ Material File Created by Live Home 3D Pro (Mac; Version 3.4; Build 879)
+
+#LH3D material fx/9001_cream_matte_paint
+newmtl fx/9001_cream_matte_paint
+Ka 0.996262 0.988983 0.938109
+Kd 1 1 1
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Wall Tiles/24_Sky Marble
+newmtl {0254273d-f8a0-ee45-81ff-689de357bff0}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.977273 1 1
+Ns 100
+d 1
+illum 2
+map_Kd Tiles_Wall_Tiles_24_19wORc_JysIv_HLWL0e7mr.png
+
+#LH3D material Floor Tiles/42_Atlantic Marble 2
+newmtl {02a99c76-61ec-0649-86a6-67aed0aa69cb}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.977273 1 1
+Ns 100
+d 1
+illum 2
+map_Kd Tiles_Marble__2ff8b70c_85e3_034d_b628_751f3b2e7013_.png
+
+#LH3D material Glass/White
+newmtl {045efeae-c101-a24d-bd9b-6f5600100adb}
+Ka 0.7 0.7 0.7
+Kd 1 1 1
+Ks 1 1 1
+Ns 100
+d 0.3
+illum 2
+map_Kd EnvEffects_GreyBlock.png
+
+#LH3D material Glass/White
+newmtl {045efeae-c101-a24d-bd9b-6f5600100adb}
+Ka 0.7 0.7 0.7
+Kd 1 1 1
+Ks 1 1 1
+Ns 100
+d 0.3
+illum 2
+map_Kd EnvEffects_GreyBlock.png
+
+#LH3D material Leather/Red Leather
+newmtl {09968026-a007-bb4c-863e-fb69e2b2b2ea}
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+map_Kd Leather_Red_Leather_1__dd831c49_d6de_5f4e_9102_dfb640490ada_.png
+
+#LH3D material Matte paint/3014 antique pink
+newmtl {0a4eccab-4786-e140-888a-125b5ed56030}
+Ka 0.597822 0.283503 0.332809
+Kd 0.854032 0.381506 0.459083
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Pictures/Keyboard 1
+newmtl {0b871d5e-27f1-2c47-b0ed-0f86ad1189ec}
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+Ns 2
+d 1
+illum 2
+map_Kd Pictures_Keyboards_1__b74e20a9_453d_e144_9268_0a78eb6f7a4e_.png
+
+#LH3D material Matte paint/1011 brown beige
+newmtl {0d54f26f-b589-a244-a093-c9745b7acdfc}
+Ka 0.477391 0.335148 0.22197
+Kd 0.681987 0.476265 0.31371
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Marble/Marble 29
+newmtl {0e8d0c96-2274-0246-b707-9dc9f1eb3cbe}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Marble_marb20L__9591672f_b439_ce49_ac86_74ff82061c97_.png
+
+#LH3D material Leather/classic_10203
+newmtl {0eb1e262-cdbc-4f4d-9c7a-c73392d820db}
+Ka 0.439551 0.455456 0.443528
+Kd 0.616268 0.641304 0.633612
+Ks 0.973975 0.972394 1
+Ns 99
+d 1
+illum 2
+map_Kd Leather_classic_10203.png
+
+#LH3D material Matte paint/5012 light blue
+newmtl {11303b0d-4169-2c40-9593-866e543a96dc}
+Ka 0.113918 0.311777 0.503639
+Kd 0.146593 0.445396 0.713726
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Matte paint/5012 light blue
+newmtl {11303b0d-4169-2c40-9593-866e543a96dc}
+Ka 0.113918 0.311777 0.503639
+Kd 0.146593 0.445396 0.713726
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Pictures/Scenery
+newmtl {11e51c6c-1ac3-fc45-98c8-b1785e82e52c}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Pictures_churlenis_2LolNPlTClJecBBfX3poVb.png
+
+#LH3D material Pictures/Picasso_Three_musicians
+newmtl {1facde71-c45a-104b-9d07-03f0518051b2}
+Ka 0.697255 0.697255 0.697255
+Kd 0.996078 0.996078 0.996078
+Ks 0.0663266 0.0663266 0.0663266
+Ns 2
+d 1
+illum 2
+map_Kd Pictures_Picasso_Three_musicians.png
+
+#LH3D material Glossy paint/1026 luminous yellow
+newmtl {25822da6-f5f4-0943-be0a-e38f570a7b61}
+Ka 1 1 0.0768838
+Kd 1 1 0.109834
+Ks 1 0.990978 0.902246
+Ns 97
+d 1
+illum 2
+
+#LH3D material Matte paint/9002 grey white
+newmtl {25950c93-ee9f-9741-b5d1-31d1deaca3a8}
+Ka 0.660451 0.654161 0.629001
+Kd 0.937438 0.929824 0.898573
+Ks 0.0867347 0.0863862 0.0853408
+Ns 4
+d 1
+illum 2
+
+#LH3D material Brick/002 Old Baked Brick
+newmtl {2a257acc-8b6a-a14d-8962-40f1fb8a54ef}
+Ka 0.414286 0.362725 0.310929
+Kd 0.591837 0.315767 0.328616
+Ks 0.0816327 0.0676478 0.0667614
+Ns 43
+d 1
+illum 2
+map_Kd brick_Bricks_Red.png
+
+#LH3D material Matte paint/9004 signal black
+newmtl {2b1293f1-2a70-8146-8dfc-21371a6ea673}
+Ka 0.0956213 0.0956213 0.104314
+Kd 0.117647 0.117647 0.14902
+Ks 0.0786049 0.0794407 0.0969388
+Ns 6
+d 1
+illum 2
+
+#LH3D material Matte paint/9004 signal black
+newmtl {2b1293f1-2a70-8146-8dfc-21371a6ea673}
+Ka 0.0956213 0.0956213 0.104314
+Kd 0.117647 0.117647 0.14902
+Ks 0.0786049 0.0794407 0.0969388
+Ns 6
+d 1
+illum 2
+
+#LH3D material Fabric/62_fish ornament
+newmtl {330f6af6-7614-b34d-ba07-bbfe560e57e1}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Fabric_fabric_fish_2uvpNEm5SuIgotBpukCDDl.png
+
+#LH3D material Pictures/Formula 1
+newmtl {3460ab09-d34d-064e-8117-77eb942f0255}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 2
+d 1
+illum 2
+map_Kd Pictures_Formula_1__c2197693_d456_4147_911c_f0a4ae30dfa4_.png
+
+#LH3D material Wallpapers/Wallpapers13
+newmtl {3cd8bb59-2087-da4a-a56e-c1ea8f9ad548}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Wallpapers_solid36M__fdd1bcfe_6bef_884f_9628_809a4207b10b_.png
+
+#LH3D material Metals/Bronze_2
+newmtl {3ce08a8b-b62b-9847-8048-e014ba6be8ec}
+Ka 0.7 0.7 0.7
+Kd 0.8 0.6 0.4
+Ks 1 1 1
+Ns 3700
+d 1
+illum 2
+
+#LH3D material Glossy paint/6018 yellow green
+newmtl {3e942b75-ab79-1b4d-896d-e7347e322dce}
+Ka 0.234056 0.506068 0.15182
+Kd 0.306859 0.683674 0.216886
+Ks 0.535384 0.831633 0.478791
+Ns 97
+d 1
+illum 2
+
+#LH3D material Wallpapers/Mar183
+newmtl {42c53d8e-19e8-4c4b-8bc2-adb7c330503e}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Wallpapers_walp34L__fd72ec19_880a_2649_8d7f_cf00294aafaf_.png
+
+#LH3D material Pictures/Japan Art
+newmtl {43772a3f-a7b6-a042-9348-ce7d412b4f6e}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Pictures_japan2_512_2LPPOg_HL1HvplJ_a8Qmif.png
+
+#LH3D material Matte paint/7043 traffic grey B
+newmtl {43ca31a2-3040-144b-9258-686e2da36631}
+Ka 0.181177 0.199763 0.201958
+Kd 0.258824 0.25098 0.25098
+Ks 0.0187848 0.0204082 0.0204082
+Ns 6
+d 1
+illum 2
+
+#LH3D material Wallpapers/Mar120
+newmtl {4913b44e-913f-1e45-b660-c373aa2498fa}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Wallpapers_walp05L__a22277d0_a395_f849_89c8_3a222d361f32_.png
+
+#LH3D material Wallpapers/Mar192
+newmtl {4fa2303a-1eb9-6541-b3d6-c592c3621f47}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Wallpapers_walp09L__07caebba_8e26_8145_80af_f21c5219a167_.png
+
+#LH3D material Matte paint/7031 blue grey
+newmtl {510f59c5-3d17-4445-9572-7f8b18431fb0}
+Ka 0.210904 0.247059 0.295266
+Kd 0.290196 0.352941 0.411765
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Wallpapers/Mar127
+newmtl {5f6ddeba-a4ee-dd46-80fd-fca5373d1844}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Wallpapers_strp42L__1a755b3e_0e21_4a4f_9729_88ed4defd920_.png
+
+#LH3D material Matte paint/6021 pale green
+newmtl {60d9db2d-9db9-4a4a-aa92-94ab3542f73f}
+Ka 0.367434 0.459293 0.336814
+Kd 0.514885 0.652171 0.481163
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Matte paint/1013 oyster white
+newmtl {62dbe038-df40-0c4d-b67d-7e3f849b26df}
+Ka 0.705765 0.671337 0.613958
+Kd 1 0.945255 0.877083
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Matte paint/6011 reseda green
+newmtl {64d2987b-af8a-ae4c-8d80-7e6c8a235507}
+Ka 0.276548 0.360157 0.225098
+Kd 0.368627 0.490196 0.321569
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Matte paint/6011 reseda green
+newmtl {64d2987b-af8a-ae4c-8d80-7e6c8a235507}
+Ka 0.276548 0.360157 0.225098
+Kd 0.368627 0.490196 0.321569
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Matte paint/9006 white aluminium
+newmtl {654f6b9a-ff55-5640-a463-718797736cb1}
+Ka 0.452663 0.472166 0.514858
+Kd 0.646662 0.666285 0.709102
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Pictures/Darts
+newmtl {65c442b4-8e42-4e46-a7f6-6948e48ac016}
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+map_Kd Pictures_material_2__66e5bd40_d467_3a4c_9afd_4e21ac84c653_.png
+
+#LH3D material Pictures/Dali_The_Rose
+newmtl {680141c0-af91-194f-b24f-2b71907b070e}
+Ka 0.697255 0.697255 0.697255
+Kd 0.996078 0.996078 0.996078
+Ks 0.0663266 0.0663266 0.0663266
+Ns 2
+d 1
+illum 2
+map_Kd Pictures_Dali_The_Rose.png
+
+#LH3D material Matte paint/7042 traffic grey A
+newmtl {681219a2-9269-9c4c-906c-25e91b33b679}
+Ka 0.398846 0.417255 0.42339
+Kd 0.54902 0.596078 0.596078
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Pictures/Keyboard 2
+newmtl {6fe7c0c3-4a3c-b54a-83be-18b5d7021560}
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+Ns 2
+d 1
+illum 2
+map_Kd Pictures_Keyboards_1__1881828d_06ff_ca4c_acb5_c664c1690c94_.png
+
+#LH3D material Matte paint/9011 graphite black
+newmtl {70e1b83c-b82d-684a-9144-d24c6ff330b9}
+Ka 0.0411764 0.0411764 0.0823529
+Kd 0.0235294 0.0588235 0.0588235
+Ks 0.031354 0.0446921 0.0663266
+Ns 6
+d 1
+illum 2
+
+#LH3D material Wood/011 Dark Apple-tree
+newmtl {719f769f-3595-2e42-9ffa-4ef36a1c1fd1}
+Ka 0.558828 0.487151 0.410714
+Kd 0.506448 0.522015 0.586735
+Ks 0.107143 0.107143 0.107143
+Ns 78
+d 1
+illum 2
+map_Kd Wood_Apple_Dark.png
+
+#LH3D material Fabric/63_Forms
+newmtl {723c2877-5d22-df40-a8f0-bc1ac3b4b064}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Fabric_fabric_forms_3Xei9dDjkTJvHLLQA2_5Ld.png
+
+#LH3D material Glossy paint/9016 traffic white
+newmtl {72d080a5-31ce-5944-b4d2-53b1b235de32}
+Ka 0.691669 0.710363 0.710363
+Kd 0.988098 0.996246 0.996078
+Ks 0.988636 1 1
+Ns 100
+d 1
+illum 2
+
+#LH3D material Wallpapers/03_Sand Stone
+newmtl {75f2b60b-5516-3a42-ad08-5416fba5e2e4}
+Ka 0.606667 0.63118 0.612795
+Kd 0.866667 0.886275 0.866667
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+map_Kd Wallpapers_18a_0McuIWheBzJOJz1sDu_2PN.png
+
+#LH3D material Brick/001 Baked Brick
+newmtl {7aab4d66-75f4-6743-bfdb-e7d72898935b}
+Ka 0.564285 0.472232 0.389262
+Kd 0.806122 0.460656 0.263485
+Ks 0.214286 0.172423 0.167764
+Ns 43
+d 1
+illum 2
+map_Kd brick_Bricks_Red_n.png
+
+#LH3D material Fabric/55_Dolmatin_Signs
+newmtl {7cbecf21-441b-4a45-85ef-b864d5ecf165}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Fabric_12_2DoMR6aCpZJQBWn4FmkUSd.png
+
+#LH3D material Glossy paint/1033 dahlia yellow
+newmtl {7df6aa86-a76f-0c4d-bb96-599f3ee5db9e}
+Ka 0.782564 0.449125 0.156513
+Kd 1 0.574243 0.22359
+Ks 0.999023 0.737062 0.511525
+Ns 97
+d 1
+illum 2
+
+#LH3D material Wallpapers/45_Magazine
+newmtl {7ea44114-4b19-6b43-8a89-3041b32d594d}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Wallpapers_fabric_40_3qilsUSv4LHRel_RBkXi79.png
+
+#LH3D material Matte paint/1024 ochre yellow
+newmtl {8395212e-c4c8-0d44-b167-c0efb878b362}
+Ka 0.535978 0.397255 0.220697
+Kd 0.712779 0.548867 0.315282
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Fabric/04_Velours Soft Grey
+newmtl {894b1497-e025-4e46-a32a-73cea2d49dea}
+Ka 0.606667 0.63118 0.612795
+Kd 0.866667 0.886275 0.866667
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+map_Kd Fabric_jeans4_1IynVX5MtRGAaTITdwG8ak.png
+
+#LH3D material Leather/pamela_01139
+newmtl {895ec787-68de-d844-9285-d4ba11ba4ae4}
+Ka 0.439551 0.455456 0.443528
+Kd 0.616268 0.641304 0.633612
+Ks 0.973975 0.972394 1
+Ns 99
+d 1
+illum 2
+map_Kd Leather_pamela_01139.png
+
+#LH3D material Wood/019 Natural Alder
+newmtl {8e12e997-a7af-a742-bd9e-0686cbe18c15}
+Ka 0.759866 0.616568 0.469602
+Kd 0.678571 0.67086 0.67086
+Ks 0.107143 0.107143 0.107143
+Ns 78
+d 1
+illum 2
+map_Kd Wood_Alder_Natural.png
+
+#LH3D material Wood/007 Oxford Cherry
+newmtl {8f438731-4a67-af4e-aa6b-cd3db1804a8a}
+Ka 0.403572 0.403572 0.403572
+Kd 0.576531 0.576531 0.576531
+Ks 0.107143 0.107143 0.107143
+Ns 78
+d 1
+illum 2
+map_Kd Wood_Cherry_Oxford.png
+
+#LH3D material Glossy paint/5015 sky blue
+newmtl {9032577c-164b-d74b-a277-a86109866b0e}
+Ka 0.0604396 0.265934 0.471428
+Kd 0.0668949 0.375481 0.673469
+Ks 0.122985 0.419469 0.72449
+Ns 97
+d 1
+illum 2
+
+#LH3D material Carpets/Carpet Pattern
+newmtl {92639870-9808-9741-8341-fa1b11b2ba8e}
+Ka 0.929068 0.959364 0.959364
+Kd 0.976089 0.99649 0.996048
+Ks 0.568811 0.587359 0.587359
+Ns 4
+d 1
+illum 2
+map_Kd Carpets_Carpet_1__3e1e0da1_d1a7_2040_9006_278a4a2cdfe9_.png
+
+#LH3D material Laminate Floor/013 Cherry 2
+newmtl {943d81f6-3497-4b4a-92a9-c44232537a22}
+Ka 0.790209 0.794377 0.805851
+Kd 0.645258 0.650014 0.691243
+Ks 0.193878 0.193878 0.193878
+Ns 97
+d 1
+illum 2
+map_Kd Laminate_vishnia_lam.png
+
+#LH3D material Fabric/Mar54
+newmtl {95b5c4dd-676e-6445-818e-793273b9690f}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Fabric_weave12M__be27b5e8_e58b_824d_9258_70b251fd6bb9_.png
+
+#LH3D material Matte paint/7039 quartz grey
+newmtl {997129da-ef30-2a4b-8ba2-d35cb9426d0b}
+Ka 0.276385 0.26353 0.257103
+Kd 0.372549 0.376471 0.337255
+Ks 0.0306122 0.0301203 0.0286444
+Ns 6
+d 1
+illum 2
+
+#LH3D material Fabric/35_Wool_Pattern_2
+newmtl {9dc5ce2a-1d22-ca43-bd5b-0f5c18da1578}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Fabric_fabric_26_3Rhz4WvEzCIB_BuObsqyxU.png
+
+#LH3D material Fabric/25_Wool_Stripes_2
+newmtl {a151508e-5175-6848-ac25-a9f30ba33416}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Fabric_fabric_10_2YxLJBY9EGHBcb9io3yvLc.png
+
+#LH3D material Matte paint/9001 cream
+newmtl {a6f3e02a-d7d8-0f41-8aa3-8ef13c2b3b5d}
+Ka 0.70465 0.692288 0.667562
+Kd 0.996262 0.988983 0.938109
+Ks 0.01 0.01 0.01
+Ns 10
+d 1
+illum 2
+
+#LH3D material Fabric/Fabric 018
+newmtl {aa480ea6-772e-374d-8f20-732a19c22018}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Fabric_weave05M__3ef450e7_2881_7e41_bb59_c93b0f5cbec2_.png
+
+#LH3D material Matte paint/7038 agate grey
+newmtl {aed451a4-bd0e-324f-862b-51028c19c589}
+Ka 0.510674 0.516752 0.510674
+Kd 0.729274 0.73756 0.729534
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Matte paint/7038 agate grey
+newmtl {aed451a4-bd0e-324f-862b-51028c19c589}
+Ka 0.510674 0.516752 0.510674
+Kd 0.729274 0.73756 0.729534
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Wood/014 Dark Nut
+newmtl {aff33d8b-20c8-6545-ab7e-7bd022d90dd6}
+Ka 0.546799 0.390449 0.378571
+Kd 0.540816 0.540816 0.540816
+Ks 0.107143 0.107143 0.107143
+Ns 78
+d 1
+illum 2
+map_Kd Wood_Nut_Dark.png
+
+#LH3D material Matte paint/8000 green brown
+newmtl {b65959f2-9d94-004f-9fb0-f97197e8ea9e}
+Ka 0.349274 0.255718 0.155926
+Kd 0.488609 0.355917 0.222751
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Wallpapers/13_Volcano Fire
+newmtl {bc29a048-0221-0941-862d-6860bc283b13}
+Ka 0.606667 0.63118 0.612795
+Kd 0.866667 0.886275 0.866667
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+map_Kd Wallpapers_15a_2j3hR6ABDPH9w3BB5vQzuw.png
+
+#LH3D material Matte paint/9003 signal white
+newmtl {c2542081-5ccf-c14f-b117-9df684bb1a7b}
+Ka 0.697255 0.697255 0.697255
+Kd 0.996078 0.996078 0.996078
+Ks 0.0663266 0.0663266 0.0663266
+Ns 2
+d 1
+illum 2
+
+#LH3D material Matte paint/9003 signal white
+newmtl {c2542081-5ccf-c14f-b117-9df684bb1a7b}
+Ka 0.697255 0.697255 0.697255
+Kd 0.996078 0.996078 0.996078
+Ks 0.0663266 0.0663266 0.0663266
+Ns 2
+d 1
+illum 2
+
+#LH3D material Glossy paint/3026 lum bright red
+newmtl {c41d9ce3-5198-e942-92b5-29b6f7ec9ef4}
+Ka 0.768215 0.0808647 0.0606485
+Kd 0.999023 0 0.0866407
+Ks 0.998917 0.52063 0.498943
+Ns 97
+d 1
+illum 2
+
+#LH3D material Fabric/Fabric 022
+newmtl {c5efc78c-5451-2a4b-84c4-4e5fe89ccac2}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Fabric_weave23M__e5a5d045_c400_9a41_a47e_27cddf20bd8d_.png
+
+#LH3D material Metals/Chrome_2
+newmtl {cac351da-7560-3f46-9e5a-399f46c2261d}
+Ka 0.7 0.7 0.7
+Kd 0.85 0.85 0.85
+Ks 1 1 1
+Ns 3700
+d 1
+illum 2
+
+#LH3D material Pictures/Formula 2
+newmtl {d16c4e68-08b4-1746-a209-3306048365e6}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 2
+d 1
+illum 2
+map_Kd Pictures_Formula_2__6a7d2246_07f2_5e47_8550_b08f22e1856d_.png
+
+#LH3D material Metals/Chrome_4
+newmtl {d3431336-5166-4749-b6e3-b79ef1e206f8}
+Ka 0.7 0.7 0.7
+Kd 0.85 0.85 0.85
+Ks 1 1 1
+Ns 3700
+d 1
+illum 2
+
+#LH3D material Metals/Chrome_4
+newmtl {d3431336-5166-4749-b6e3-b79ef1e206f8}
+Ka 0.7 0.7 0.7
+Kd 0.85 0.85 0.85
+Ks 1 1 1
+Ns 3700
+d 1
+illum 2
+
+#LH3D material Glossy paint/7035 light grey
+newmtl {d4c8b71e-b8e6-e943-b587-d80a7be391f7}
+Ka 0.580852 0.59308 0.605308
+Kd 0.82707 0.847257 0.85861
+Ks 0.82707 0.847257 0.85861
+Ns 97
+d 1
+illum 2
+
+#LH3D material Wallpapers/46_Child_Dream_1
+newmtl {d7306630-d461-2d4b-973b-80be1845a651}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Wallpapers_fabric_41_orange_0gO_5hGNCLHhqVJMni1L7p.png
+
+#LH3D material Wood/029 Pile Pine 1
+newmtl {d824b3b5-c65d-ca46-919c-126f3da85941}
+Ka 0.770978 0.749872 0.806815
+Kd 0.746236 0.740401 0.750619
+Ks 0.107143 0.107143 0.107143
+Ns 93
+d 1
+illum 2
+map_Kd Wood_Wood_Yellow__dc5601db_bad6_7c4d_870b_c9e033e62245_.png
+
+#LH3D material Matte paint/1002 sand yellow
+newmtl {e0020b58-730c-9149-b8e5-1d0216ba5ce7}
+Ka 0.62367 0.502754 0.324563
+Kd 0.842039 0.690471 0.463661
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Wallpapers/Mar61
+newmtl {e0fd6740-7608-fa4d-b1a9-6d15c44a85da}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Wallpapers_floral25M__9ed89d8b_273d_d448_92f6_4ed14781d9c0_.png
+
+#LH3D material Wall Tiles/32_Old Sand Square
+newmtl {e3b88bfb-f2ab-0749-877d-235afe5ea80d}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.977273 1 1
+Ns 100
+d 1
+illum 2
+map_Kd Tiles_Wall_Tiles_32_38eDMtTAuhJAUZmUz2EAjr.png
+
+#LH3D material Wallpapers/Mar60
+newmtl {e46a8b8d-6226-9c45-83be-7ad64c270b7a}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Wallpapers_floral24M__208c926d_a697_7a4e_93cb_6102b7daa2f6_.png
+
+#LH3D material Wallpapers/Mar188
+newmtl {efa34f90-82ad-6b4f-83c1-93dbdea49e3c}
+Ka 0.683262 0.701729 0.701729
+Kd 0.976089 0.99649 0.996048
+Ks 0.0249304 0.0255102 0.0255102
+Ns 4
+d 1
+illum 2
+map_Kd Wallpapers_walp20L__30e2aadb_51d5_f541_990e_227e4d9c357a_.png
+
+#LH3D material Matte paint/7004 signal grey
+newmtl {f0622a6a-bfc0-c545-a6c4-1a9ebb7611aa}
+Ka 0.42549 0.42549 0.455882
+Kd 0.607843 0.607126 0.646464
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Carpets/016_bsec
+newmtl {f2cf0479-c136-4f42-906c-48846788c13a}
+Ka 0.697255 0.697255 0.697255
+Kd 0.996078 0.996078 0.996078
+Ks 0.0663266 0.0663266 0.0663266
+Ns 2
+d 1
+illum 2
+map_Kd Carpets_016_bsec.png
+
+#LH3D material Matte paint/8007 fawn brown
+newmtl {f3079873-036c-1c43-80a8-1bbfd171f83e}
+Ka 0.259984 0.136182 0.0866612
+Kd 0.371405 0.192523 0.119921
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Wood/008 Vild Cherry
+newmtl {f7fcbbc6-2a81-5247-872f-efe125acdef0}
+Ka 0.64458 0.49407 0.385714
+Kd 0.55102 0.55102 0.55102
+Ks 0.107143 0.107143 0.107143
+Ns 78
+d 1
+illum 2
+map_Kd Wood_Cherry_Vild.png
+
+#LH3D material Matte paint/1014 ivory
+newmtl {f9f347e4-b49d-904d-a64d-529b6702a5e2}
+Ka 0.660234 0.593881 0.476517
+Kd 0.943191 0.839811 0.673793
+Ks 1 1 1
+Ns 1
+d 1
+illum 2
+
+#LH3D material Matte paint/9010 pure white
+newmtl {fe931f07-f9cf-3740-84ab-6f546136e565}
+Ka 0.929068 0.959364 0.959364
+Kd 0.976089 0.99649 0.996048
+Ks 0.568811 0.587359 0.587359
+Ns 4
+d 1
+illum 2
+

@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\celShading-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\celShading-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\celShadingSkybox-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\celShadingSkybox-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\advancedOutline-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\advancedOutline-geom.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\advancedOutline-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\painterly-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\painterly-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\goochShading-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\goochShading-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\realistic-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\realisticSkybox-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\realisticSkybox-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\realistic-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\hatching-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\hatching-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\hatchingSkybox-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\hatchingSkybox-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\halftone-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\halftone-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\monochrome-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\monochrome-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\dithering-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\dithering-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\charcoal-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\charcoal-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\basicOutline-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\basicOutline-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\pixelArt-frag.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="Shaders\pixelArt-vert.glsl">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lodepng.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Cubemap.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Element3D.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Group3D.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="AmbientLightApplicator.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectionalLightApplicator.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="LightApplicator.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="LightSource.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLightApplicator.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderProgram.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="SpotLightApplicator.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Structures.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="VAO.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="FBO.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Quad.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="imconfig.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_glfw_gl3.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_internal.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_rect_pack.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_textedit.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_truetype.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Enumerations.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AmbientLightApplicator.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Cubemap.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectionalLightApplicator.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Element3D.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="FBO.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Group3D.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="LightSource.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="lodepng.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Plane.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLightApplicator.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Quad.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderProgram.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="SpotLightApplicator.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="VAO.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_draw.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_glfw_gl3.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
